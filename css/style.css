@@ -1,9 +1,10 @@
-.label1 {
-    margin-top: 10px;
-    margin-left: 10px;
+@import url('https://fonts.googleapis.com/css?family=Lato&display=swap');
+
+
+* {
+    box-sizing: border-box;
 }
 
-.checkbox-periodos {
-    margin-top: 5px;
-    margin-left: 13px;
+body {
+ background-color: #242333;
 }
